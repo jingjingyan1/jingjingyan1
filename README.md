@@ -20,21 +20,11 @@ Applying graph neural networks and gradient-boosted models to predict molecular 
 
 ---
 
-## Why This Combination Matters
+## The Combination
 
-Most people in AI-for-pharma come from one side: either computational (ML/CS background, learning biology) or experimental (bench scientists picking up Python). I've spent years on both sides.
+My day job is preclinical drug development. I've led bioanalytical strategy for various programs, developed LC-MS/MS methods for drug quantification, and ran PK/biodistribution studies across liver, kidney, heart, lung. Made candidate drug investment decisions based on ADMET data I generated.
 
-**On the bench:** Led bioanalytical strategy for GalNAc-siRNA and ASO programs at AstraZeneca. Developed LC-MS/MS methods for conjugated siRNA quantification. Ran PK/biodistribution studies across liver, kidney, heart, lung. Made candidate drug investment decisions based on ADMET data I generated.
-
-**On the compute side:** Built GNN models that predict the same molecular properties I used to measure experimentally. Designed interpretability frameworks for transformer models. Understand both *what* ADMET data means for a drug program *and* how to build models that predict it.
-
-This means I can ask the right biological questions when building ML models, and I can evaluate ML predictions with the skepticism of someone who has generated ground-truth data.
-
-## Background
-
-My day job is preclinical drug development. I've led bioanalytical strategy for various programs, developed LC-MS/MS methods for drug quantification, and run PK/biodistribution studies that informed candidate drug investment decisions.
-
-On the side, I build ML models that predict the same molecular properties I used to measure experimentally. This overlap gives me a practical lens: I know what ADMET data means for a real drug program, so I can ask the right questions when building models and evaluate predictions with the skepticism of someone who has generated ground-truth data.
+On the side, I built GNN models that predict the molecular properties I used to measure experimentally. Designed interpretability frameworks for transformer models. Understand both what ADMET data means for a drug program and how to build models that predict it, so I can ask the right questions when building models and evaluate predictions with the skepticism of someone who has generated ground-truth data.
 
 ---
 
