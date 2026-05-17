@@ -2,11 +2,11 @@
 
 **Preclinical Scientist × AI/ML Researcher — Building at the intersection of drug discovery and machine learning**
 
-I bring 8+ years of hands-on drug discovery and drug development (AstraZeneca, Glaukos, Biogen, Eli Lilly/Prevail) combined with a deep personal interest in machine learning and AI. I've advanced real drug candidates through the preclinical pipeline and, independently, built ML systems that predict molecular properties and investigate model behavior, bridging the gap between bench science and computational approaches.
+I bring 8+ years of hands-on drug discovery and drug development (Glaukos, AstraZeneca, Biogen, Eli Lilly/Prevail) combined with a deep personal interest in machine learning and AI. I've advanced real drug candidates through the preclinical pipeline and, independently, built ML systems that predict molecular properties and investigate model behavior, bridging the gap between bench science and computational approaches.
 
 ---
 
-## What I'm Working On
+## Personal Research Projects
 
 ### AI for Drug Discovery — ADMET Prediction
 Applying graph neural networks and gradient-boosted models to predict molecular ADMET properties using the Therapeutics Data Commons benchmark suite.
