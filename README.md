@@ -57,7 +57,6 @@ This means I can ask the right biological questions when building ML models, and
 
 ## Education
 
-- **M.S. Computer Science** (Machine Learning) — Georgia Institute of Technology
 - **Ph.D. Chemistry & Biochemistry** — Worcester Polytechnic Institute
 - **B.S. & M.S. Chemistry** — Nankai University
 
