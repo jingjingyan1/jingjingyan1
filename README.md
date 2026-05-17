@@ -2,9 +2,7 @@
 
 **Preclinical Scientist × AI/ML Researcher — Building at the intersection of drug discovery and machine learning**
 
-I bring 8+ years of hands-on oligonucleotide/siRNA drug development (AstraZeneca, Glaukos, Biogen, Eli Lilly/Prevail) together with graduate-level ML research (Georgia Tech MS in CS/ML). My work sits at a unique intersection: I've advanced real drug candidates through the preclinical pipeline *and* built ML systems that improve how we predict molecular properties and understand model behavior.
-
-I'm actively exploring roles in **AI-driven drug discovery** — the kind of work happening at Isomorphic Labs, Recursion, Relay Therapeutics, and within AI/ML groups at Lilly, AstraZeneca, Novartis, and Roche.
+I bring 8+ years of hands-on drug discovery and drug development (AstraZeneca, Glaukos, Biogen, Eli Lilly/Prevail) together with ML research. My work sits at a unique intersection: I've advanced real drug candidates through the preclinical pipeline *and* built ML systems that improve how we predict molecular properties and understand model behavior.
 
 ---
 
