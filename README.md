@@ -30,13 +30,13 @@ On the side, I've built GNN models that predict the same molecular properties I 
 
 ## Technical Stack
 
+**Preclinical & DMPK:** LC-MS/MS bioanalysis (Sciex 6500+/5500), PK/PD modeling (Phoenix WinNonlin), GalNAc-siRNA/ASO platforms, metabolite ID, tissue biodistribution, SPE method development, GLP-compliant method validation, IND/IDE regulatory submissions
+
 **Drug Discovery & Cheminformatics:** RDKit, Morgan fingerprints, molecular descriptors, SMILES, PyTDC, DeepPurpose, DGL/DGLLife, XGBoost, molecular property prediction
 
 **Deep Learning & ML:** PyTorch, PyTorch Geometric, GNN (GIN, GCN, AttentiveFP), transformer architectures, contrastive activation addition, activation patching, Hugging Face
 
-**Preclinical & DMPK:** LC-MS/MS bioanalysis, PK/PD modeling (Phoenix WinNonlin), GalNAc-siRNA/ASO platforms, metabolite ID, tissue biodistribution, SPE method development
-
-**Languages & Tools:** Python, SQL, Git, Docker, Google Colab, Runpod (cloud GPU)
+**Languages & Tools:** Python, Git, Docker, Google Colab, Runpod (cloud GPU)
 
 ---
 
