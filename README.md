@@ -30,6 +30,12 @@ Most people in AI-for-pharma come from one side: either computational (ML/CS bac
 
 This means I can ask the right biological questions when building ML models, and I can evaluate ML predictions with the skepticism of someone who has generated ground-truth data.
 
+## Background
+
+My day job is preclinical drug development. I've led bioanalytical strategy for various programs, developed LC-MS/MS methods for drug quantification, and run PK/biodistribution studies that informed candidate drug investment decisions.
+
+On the side, I build ML models that predict the same molecular properties I used to measure experimentally. This overlap gives me a practical lens: I know what ADMET data means for a real drug program, so I can ask the right questions when building models and evaluate predictions with the skepticism of someone who has generated ground-truth data.
+
 ---
 
 ## Technical Stack
