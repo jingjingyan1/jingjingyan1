@@ -22,9 +22,9 @@ Applying graph neural networks and gradient-boosted models to predict molecular 
 
 ## The Combination
 
-My day job is preclinical drug development. I've led bioanalytical strategy for various programs, developed LC-MS/MS methods for drug quantification, and ran PK/biodistribution studies across liver, kidney, heart, lung. Made candidate drug investment decisions based on ADMET data I generated.
+My day job is preclinical drug development. I've led bioanalytical strategy for various programs, developed LC-MS/MS methods for drug quantification, and run PK/biodistribution studies across liver, kidney, heart, and lung, generating the ADMET data that informed candidate drug investment decisions.
 
-On the side, I built GNN models that predict the molecular properties I used to measure experimentally. Designed interpretability frameworks for transformer models. Understand both what ADMET data means for a drug program and how to build models that predict it, so I can ask the right questions when building models and evaluate predictions with the skepticism of someone who has generated ground-truth data.
+On the side, I've built GNN models that predict the same molecular properties I used to measure experimentally, and designed interpretability frameworks for transformer models. Knowing what ADMET data means for a real drug program helps me ask the right questions when building models and evaluate predictions with the skepticism of someone who has generated the ground-truth data.
 
 ---
 
