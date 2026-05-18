@@ -1,6 +1,6 @@
 # Jingjing Yan, Ph.D.
 
-**Preclinical Scientist × AI/ML Researcher — Building at the intersection of drug discovery and machine learning**
+**Drug Discvoery Scientist × AI/ML Researcher — Building at the intersection of drug discovery and machine learning**
 
 I bring 8+ years of hands-on drug discovery and drug development combined with a deep personal interest in machine learning and AI. I've advanced real drug candidates through the preclinical pipeline and, independently, built ML systems that predict molecular properties and investigate model behavior, bridging the gap between bench science and computational approaches.
 
